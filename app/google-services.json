@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "865589686506",
+    "firebase_url": "https://chicken-b00b4.firebaseio.com",
+    "project_id": "chicken-b00b4",
+    "storage_bucket": "chicken-b00b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865589686506:android:c1e2c70a516f6ab7dde793",
+        "android_client_info": {
+          "package_name": "com.example.chicken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865589686506-rb4sk6ki9pdqegcphfo34l9ee4en72me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_wtVprrtM1xX2tg-_zZb6mbjzYRdyQQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865589686506-rb4sk6ki9pdqegcphfo34l9ee4en72me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
